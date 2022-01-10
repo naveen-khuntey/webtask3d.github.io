@@ -1,0 +1,82 @@
+body
+{
+	background : #cee3ec;
+}
+.profile-img img
+{
+	float: right;
+	width: auto;
+	height: auto;
+}
+.maintitle h1
+{
+	text-align  : center;
+}
+.maintitle h2
+{
+	font-family: 'Courier New', Courier, monospace;
+	padding-left: 30px;
+}
+.maintitle p
+{
+	padding-left: 30px;
+}
+.maintitle hr
+{
+	border-top: 70px solid #197bd6;
+}
+.exp
+{
+	background-color: #878fbe;
+	display: inline-block;
+	width: 28%;
+	padding: 10px 10px;
+	margin: 2%;
+	box-shadow: 0 0 10px 1px;
+}
+.exp h3
+{
+	text-align: center;
+}
+.education h3
+{	padding-top: 5px;
+	padding-left : 10px;
+	text-decoration: underline;
+}
+.education h2
+{
+	font-family: cursive;
+	text-align: center;
+}
+.education p
+{
+	padding-left: 30px;
+}
+.education a
+{
+	color: black;
+}
+.education hr
+{
+	border-top:5px double tomato;
+}
+.footer 
+{
+	background : #ffffff;
+}
+.footer table
+{	
+	padding-left: 20%; 
+	
+}
+.footer h3
+{
+	text-align: center;
+}
+.footer img
+{
+	margin-left: 10px;
+	margin-right: 10px;
+	height: 20px;
+	width: 20px;
+}
